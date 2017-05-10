@@ -21,4 +21,5 @@ Video Tutorial 1 : link:https://www.youtube.com/watch?v=QzF2Iii4s5c[Real-time Tw
 
 *Image Recognition Processor*  - Real-time image recognition and classification processor. Based on InceptionV3 model
 include::spring-cloud-starter-stream-processor-image-recognition/README.adoc[]
+
 Video Tutorial 2 : link:https://www.youtube.com/watch?v=bvDM7_CKQjo[Real-time Real-time image recognition ]
